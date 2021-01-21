@@ -1,5 +1,5 @@
 # Loan Qualifier Application
-## *Saving QUalifying Loans*
+## *Saving Qualifying Loans*
 
 This project will give users the option to save any qualifying loans found based on their information. The qualifying loans will be saved in a new file so that they could be tracked for the user to compare options
 
